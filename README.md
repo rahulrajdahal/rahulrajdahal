@@ -10,7 +10,7 @@ I am a Full Stack developer based on Kathmandu, Nepal. I have been developing on
 
 
 ## :hammer_and_wrench: Tools and languages
-  <a href="https://www.typescript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="60" height="80"/> </a> 
+  <a href="https://www.typescript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="80" height="80"/> </a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="100" height="80"/> </a> 
   <a href="https://www.css.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="80" height="80"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="120" height="80"/> </a>
