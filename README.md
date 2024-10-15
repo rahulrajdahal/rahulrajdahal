@@ -17,6 +17,7 @@ I am a Full Stack developer based on Kathmandu, Nepal. I have been developing on
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="120" height="80"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="linux" width="120" height="80"/> </a> 
 
 
 
