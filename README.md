@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+check+out+awesome+repos...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+check+out+my+repos...)
 
 
 I am a Full Stack developer based on Kathmandu, Nepal. I have been developing on the web since 2016. 
