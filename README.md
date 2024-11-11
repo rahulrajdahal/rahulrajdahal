@@ -23,7 +23,7 @@ I am a Full Stack developer based on Kathmandu, Nepal. I have been developing on
 
   
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulrajdahal&theme=aura&hide_border=true&border_radius=20&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulrajdahal&theme=aura&border_radius=24&date_format=j%20M%5B%20Y%5D&card_width=500&background=45%2C0C0C2E%2C202494&border=202494&stroke=0C0C2E&ring=D9D4FF&fire=D9D4FF)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahulrajdahal)](https://github.com/rahulrajdahal/github-profile-trophy)
 
