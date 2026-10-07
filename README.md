@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋 
 
-Senior Frontend / Full-Stack Developer with 4+ years of commercial experience building scalable, high-performance web applications using TypeScript, React, Next.js, and Node.js. 
+Full-Stack Developer with 4+ years of commercial experience building scalable, high-performance web applications using TypeScript, React, Next.js, and Node.js. 
 
 📍 Isle of Man
 
@@ -16,7 +16,7 @@ I specialise in designing and developing modern web applications with a strong f
 **Frontend** 
 - React, Next.js, TypeScript, JavaScript
 - HTML5, CSS3, Tailwind, SCSS
-- Framer Motion, Responsive & Accessible UI
+- Framer Motion, GSAP, Responsive & Accessible UI
   
 **Backend** 
 - Node.js, Express
@@ -36,6 +36,6 @@ I specialise in designing and developing modern web applications with a strong f
 ----------
 
 ## 📫 Connect with me:
-- Portfolio: https://rahulrajdahal.vercel.app
-- LinkedIn: https://www.linkedin.com/in/rahul-raj-dahal-b11b04147
+- Portfolio: https://rahulrajdahal.com
+- LinkedIn: https://www.linkedin.com/in/rahul-raj-dahal
 
